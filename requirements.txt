@@ -1,0 +1,13 @@
+pdfminer
+pdfminer.six 
+openai
+tqdm
+ebooklib
+bs4
+python-docx
+mobi
+chardet
+pandas
+lxml
+openpyxl
+request
