@@ -1,3 +1,7 @@
+Main Project:
+Thanks for @jesselau76
+https://github.com/jesselau76/ebook-GPT-translator/issues
+
 # ebook-GPT-translator: Enhanced Reading Experience with Customized Style and Translation
 
 This versatile tool is crafted to elevate your reading journey by enabling the conversion of ebooks from one format to another and incorporating language translation utilizing both OpenAI API and DEEPL API. It is compatible with a diverse array of file types including PDF, DOCX, EPUB, and MOBI, and outputs the transformed content into EPUB and text files. Alongside translating text into an extensive variety of languages, this application provides you the flexibility to choose your preferred translation service and GPT model for a personalized experience.
