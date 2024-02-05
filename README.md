@@ -39,13 +39,7 @@ Clone the repository using:
 git clone https://github.com/yourusername/ebook-GPT-translator.git
 ```
 
-Keep your application up-to-date with:
 
-```
-cd ebook-GPT-translator
-git pull
-pip install -r requirements.txt
-```
 
 ## Configuration:
 
