@@ -83,7 +83,7 @@ The script will utilize the settings defined in `settings.cfg` to perform the co
 The output will be conveniently saved as an EPUB or text file with `_translated` included in the filename, ensuring easy identification. Through its intuitive design and array of features, the ebook-GPT-translator provides an innovative solution for readers and linguists alike. Embrace a customizable translation experience and dive into your favorite texts in the style and language of your choice.
 
 ## License:
-
+This project was developed as open-source by Dr. Sadık Barış Adıgüzel, the main framework was obtained from @jesselau76's project.
 This utility is made available under the MIT License.
 
 ## Disclaimer:
